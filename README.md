@@ -8,7 +8,7 @@ Walkthrough: https://www.youtube.com/embed/TR6GaBb37FQ?si=2972tkmVCB62g82V
 
 # How to Run the VR App
 ## Using the APK File
-APK file is available in the '/Builds' folder of this repo.
+APK file is available in the '/Build' folder of Google Drive Folder linked called 'VR App'. Here is a direct link to the APK file: https://drive.google.com/file/d/1eOZF9_5B5hx8OuRAGbl5msfahHb0nP5t/view?usp=sharing
 If you want to try the VR experience yourself, you can install the APK file on a compatible Android-based VR headset (e.g., Oculus Quest):
 
 1. Enable developer mode on your VR device.
