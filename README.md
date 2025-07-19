@@ -7,7 +7,7 @@ The included walkthrough video shows a first-person perspective recorded while w
 Walkthrough: https://www.youtube.com/embed/TR6GaBb37FQ?si=2972tkmVCB62g82V
 
 # How to Run the VR App
-Using the APK File
+# Using the APK File
 If you want to try the VR experience yourself, you can install the APK file on a compatible Android-based VR headset (e.g., Oculus Quest):
 
 1. Enable developer mode on your VR device.
