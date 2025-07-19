@@ -19,7 +19,7 @@ If you want to try the VR experience yourself, you can install the APK file on a
 # Additional Files
 All other project files, including Unity source files and assets, are available in the following Google Drive folder:
 
-https://drive.google.com/drive/folders/1lhyyd6sTlJNV7wuJOq5q70IDZ_16t5Er?usp=drive_link
+https://drive.google.com/drive/folders/1lhyyd6sTlJNV7wuJOq5q70IDZ_16t5Er?usp=sharing
 
 Feel free to explore, modify, or build the project yourself.
 
