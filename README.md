@@ -8,6 +8,7 @@ Walkthrough: https://www.youtube.com/embed/TR6GaBb37FQ?si=2972tkmVCB62g82V
 
 # How to Run the VR App
 # Using the APK File
+APK file is available in the '/Builds' folder of this repo.
 If you want to try the VR experience yourself, you can install the APK file on a compatible Android-based VR headset (e.g., Oculus Quest):
 
 1. Enable developer mode on your VR device.
@@ -16,7 +17,7 @@ If you want to try the VR experience yourself, you can install the APK file on a
 
 3. Once installed, launch the app from your headset to explore the simulation firsthand.
 
-# Additional Files
+# Source Project Files
 All other project files, including Unity source files and assets, are available in the following Google Drive folder:
 
 https://drive.google.com/drive/folders/1lhyyd6sTlJNV7wuJOq5q70IDZ_16t5Er?usp=sharing
